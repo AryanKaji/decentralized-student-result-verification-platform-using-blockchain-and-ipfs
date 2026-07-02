@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Decentralized Student Result Verification Platform
 
 A secure, tamper-proof, and decentralized academic transcript management and verification portal. Built using Next.js, MongoDB, Ethereum (Sepolia Testnet), and IPFS (via Pinata).
@@ -203,3 +204,7 @@ student-result-ipfs/
 ├── scripts/              # Database mock data seeding scripts
 └── package.json          # Node dependencies and scripts
 ```
+=======
+# decentralized-student-result-verification-platform-using-blockchain-and-ipfs
+A secure blockchain-based platform for publishing and verifying student results. It combines MongoDB, IPFS, and Ethereum to create tamper-proof academic records, maintain immutable version history, and enable public verification with transparent audit trails.
+>>>>>>> b23756b734b6e1ab6bcf667a098dfd05bef1c174
